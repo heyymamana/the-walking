@@ -1,2 +1,3 @@
 # the-walking
 The walking is a mobile application built using react-native offers a visually immersive shopping experience that brings the store directly to your device whether you're having ios or android platform this application ensures a consistent and fluid experience accross the platform with the help of node.js backend it provides smooth navigation from browsing, search and filtering options to checkout including adding items to cart and selecting the size and quantity. It also provides a special feature of exclusive promotions and special offers to a item in a top fit or in a refresh of application to keep a user in a loop with real-time news and updates to ensure user never miss out the perfect fit.  
+# Interface Snapshots
