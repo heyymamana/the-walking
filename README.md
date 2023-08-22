@@ -8,6 +8,14 @@ The walking is a mobile application built using react-native offers a visually i
 ![Screenshot_2023 08 22_09 10 04 763](https://github.com/heyymamana/the-walking/assets/111417917/f57763bd-3c13-4a6b-ac84-47f7a9c5cfc7)
 ![Screenshot_2023 08 22_10 18 52 147](https://github.com/heyymamana/the-walking/assets/111417917/72793e9a-75c4-4423-8850-4cac54773018)
 ![Screenshot_2023 08 22_09 07 40 864](https://github.com/heyymamana/the-walking/assets/111417917/0ee4510c-b3f0-464c-b575-79e57c743620)
+
+## Setup
+
+1. Clone the repository: ` git clone ` (https://github.com/heyymamana/the-walking) `
+2. Navigate to the project directory : ` cd thewalking `
+3. Install dependencies : ` npm install `
+4. Start the development server : ` npm start ` or ` yarn start `
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
